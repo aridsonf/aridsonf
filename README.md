@@ -1,11 +1,10 @@
 ### Hello there 👋, Aridson here
 
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning web development (Laravel) and neural networks (Convolutional)
-- 🤔 I’m looking for help with UX/DX
-- 🎮 My nickname on games: ANFF
-- 🧠 I still want to learn a lot of things, like other areas of data science and game development
-- 
+- 🔭 I’m currently working on web development;
+- 🌱 I’m currently learning web development (Laravel) and neural networks (Convolutional);
+- 🤔 I’m looking for help with UX/DX;
+- 🎮 My nickname on games: ANFF;
+- 🧠 I still want to learn a lot of things, like other areas of data science and game development.
 ---
 
 ###  How to reach me:
