@@ -1,4 +1,4 @@
-### Hi there 👋, Aridson is here
+### Hello there 👋, Aridson is here
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning web development (Laravel) and neural networks (Convolutional)
