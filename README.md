@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with UX/DX
 - 🎮 My nickname on games: ANFF
 - 🧠 I still want to learn a lot of things, like other areas of data science and game development
-- 📫 How to reach me at:
+- 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Aridson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aridsonf/)](https://www.linkedin.com/in/aridsonf) 
 
 ---
