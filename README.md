@@ -10,6 +10,15 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-brown?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aridsonf/)](https://www.instagram.com/aridsonf/)
 ---
 
+### Connect with me:
+
+[<img align="left" alt="Linkedin" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+[<img align="left" alt="Discord" width="70px" src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+
+<br />
+---
+
 <div>
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=aridsonf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aridsonf&layout=compact&langs_count=7&theme=tokyonight">
@@ -27,4 +36,7 @@
   <img align="center" height="30" width="40" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
 </div>
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg) -->
+
+[instagram]: https://www.instagram.com/aridsonf/
+[linkedin]: https://www.linkedin.com/in/aridsonf
