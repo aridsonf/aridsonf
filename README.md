@@ -5,16 +5,15 @@
 - 🤔 I’m looking for help with UX/DX
 - 🎮 My nickname on games: ANFF
 - 🧠 I still want to learn a lot of things, like other areas of data science and game development
-- 📫 How to reach me:<br>
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aridsonf/)](https://www.linkedin.com/in/aridsonf) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-brown?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aridsonf/)](https://www.instagram.com/aridsonf/)
 ---
 
-### Connect with me:
+###  How to reach me:
 
-[<img align="left" alt="Linkedin" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aridsonf/)](https://www.linkedin.com/in/aridsonf) 
 
-[<img align="left" alt="Discord" width="70px" src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-brown?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aridsonf/)](https://www.instagram.com/aridsonf/)
 
 <br />
 ---
@@ -38,5 +37,3 @@
 
 <!-- ![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg) -->
 
-[instagram]: https://www.instagram.com/aridsonf/
-[linkedin]: https://www.linkedin.com/in/aridsonf
