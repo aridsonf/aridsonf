@@ -22,14 +22,18 @@
 ---  
 
  **Tecnologias:**
-<p align="left">  <code><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="38" height="38"/></code>&nbsp;
-  <code><img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="38" height="38"/></code>&nbsp;
-  <code><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="Javascript" width="38" height="38"/></code>&nbsp;
-  <code><img src="https://vuejs.org/images/logo.svg" alt="Vue.js" width="38" height="38"/></code>&nbsp;
-  <code><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="38" height="38"/></code>&nbsp;
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="ElasticSearch" width="38" height="38"/></code>&nbsp;
-  <code><img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png" alt="Docker" width="38" height="38"/></code>&nbsp;
-  <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="38" height="38"/></code>&nbsp;
+<p align="left">  
+  <code><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="38" height="38"/></code>&nbsp;
+<code><img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="38" height="38"/></code>&nbsp;
+<code><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" width="38" height="38"/></code>&nbsp;
+<code><img src="https://vuejs.org/images/logo.svg" alt="Vue.js" width="38" height="38"/></code>&nbsp;
+<code><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="38" height="38"/></code>&nbsp;
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="ElasticSearch" width="38" height="38"/></code>&nbsp;
+<code><img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png" alt="Docker" width="38" height="38"/></code>&nbsp;
+<code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="38" height="38"/></code>&nbsp;
+<code><img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python" width="38" height="38"/></code>&nbsp;
+<code><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" width="38" height="38"/></code>&nbsp;
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="38" height="38"/></code>&nbsp;
  </p>
  
 
