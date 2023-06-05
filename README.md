@@ -26,7 +26,7 @@
   <code><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="38" height="38"/></code>&nbsp;
   <code><img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="38" height="38"/></code>&nbsp;
   <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="JavaScript" width="38" height="38"/></code>&nbsp;
-  <code><img src="https://vuejs.org/images/icons/favicon-32x32.png" alt="Vue.js" width="38" height="38"/></code>&nbsp;
+  <code><img src="https://cdn.jsdelivr.net/npm/vue/dist/vue.png" alt="Vue.js" width="38" height="38"/></code>&nbsp;
   <code><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="38" height="38"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91357841-3fea0c00-e7c8-11ea-91de-947891a2dec6.png" alt="Docker" width="38" height="38"/></code>&nbsp;
   <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="38" height="38"/></code>&nbsp;
