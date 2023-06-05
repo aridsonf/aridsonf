@@ -21,24 +21,15 @@
   
 ---  
 
-<div style="display: inline_block"><br>
- 
-  
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/docker-original-wordmark.svg">
-  <img align="center" height="30" width="40" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/laravel-plain.svg">
-
-</div>
-
  **Tecnologias:**
-<p align="left">
-  <code><img align="center" height="30" width="40" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91357843-411b3900-e7c8-11ea-8161-3e8191a6cde2.png" alt="React.js" width="45" height="38"/></code>&nbsp;
-  <code><img src="http://abneroliveira.eti.br/wp-content/uploads/2020/01/nodejs-logo-png-node-js-development-296.png" alt="Node.js" width="38" height="38"/></code>&nbsp; 
-  <code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="38" height="38"/></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="38" height="38"/></code>&nbsp;
+<p align="left">  <code><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="38" height="38"/></code>&nbsp;
+  <code><img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="38" height="38"/></code>&nbsp;
+  <code><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="Javascript" width="38" height="38"/></code>&nbsp;
+  <code><img src="https://vuejs.org/images/logo.svg" alt="Vue.js" width="38" height="38"/></code>&nbsp;
+  <code><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="38" height="38"/></code>&nbsp;
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="ElasticSearch" width="38" height="38"/></code>&nbsp;
+  <code><img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png" alt="Docker" width="38" height="38"/></code>&nbsp;
+  <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="38" height="38"/></code>&nbsp;
  </p>
  
 
