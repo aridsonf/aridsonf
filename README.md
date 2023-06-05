@@ -28,7 +28,7 @@
   <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="JavaScript" width="38" height="38"/></code>&nbsp;
   <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vuejs.svg" alt="Vue.js" width="38" height="38"/></code>&nbsp;
   <code><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="38" height="38"/></code>&nbsp;
-  <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" alt="Docker" width="38" height="38"/></code>&nbsp;
+  <code><img src="https://user-images.githubusercontent.com/51785898/91357841-3fea0c00-e7c8-11ea-91de-947891a2dec6.png" alt="Docker" width="38" height="38"/></code>&nbsp;
   <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="38" height="38"/></code>&nbsp;
   <code><img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python" width="38" height="38"/></code>&nbsp;
   <code><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" width="38" height="38"/></code>&nbsp;
