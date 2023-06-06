@@ -24,6 +24,7 @@
 <p align="left">  
   <code><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="38" height="38"/></code>&nbsp;
   <code><img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="38" height="38"/></code>&nbsp;
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="38" height="38"/></code>&nbsp;
   <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="JavaScript" width="38" height="38"/></code>&nbsp;
   <code><img height="38" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/></code>&nbsp;
   <code><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="38" height="38"/></code>&nbsp;
@@ -31,5 +32,4 @@
   <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="38" height="38"/></code>&nbsp;
   <code><img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python" width="38" height="38"/></code>&nbsp;
   <code><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" width="38" height="38"/></code>&nbsp;
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="38" height="38"/></code>&nbsp;
  </p>
