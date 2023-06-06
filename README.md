@@ -33,7 +33,3 @@
   <code><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" width="38" height="38"/></code>&nbsp;
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="38" height="38"/></code>&nbsp;
  </p>
- 
-
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
-
