@@ -31,3 +31,6 @@
   <code><img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python" width="38" height="38"/></code>&nbsp;
   <code><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" width="38" height="38"/></code>&nbsp;
  </p>
+
+![snake gif](https://github.com/aridsonf/aridsonf/blob/output/github-contribution-grid-snake.svg)
+
