@@ -1,16 +1,14 @@
 ### Hello there 👋, Aridson here
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aridsonf/)](https://www.linkedin.com/in/aridsonf) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-brown?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aridsonf/)](https://www.instagram.com/aridsonf/)
+
 - 🔭 I’m currently working as a Software Developer at EMSERH;
 - 🌱 I’m currently learning about new tecnologies in web and mobile development;
 - 🎮 My nickname on games: ANFF;
 - 🧠 I still have a strong desire to learn many things, including areas such as data science and game development.
----
 
-###  How to reach me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aridsonf/)](https://www.linkedin.com/in/aridsonf) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-brown?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aridsonf/)](https://www.instagram.com/aridsonf/)
-
+- 📫 How to contact me: filhoaridson@gmail.com
 ---
 
 <div>
