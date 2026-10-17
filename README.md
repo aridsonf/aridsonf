@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working as a Software Engineer at EMSERH;
 - 🌱 I’m currently learning about new tecnologies in web and mobile development;
-- 🎮 My nickname on games: ANFF;
 - 🧠 I still have a strong desire to learn many things, including areas such as data science and game development.
 
 - 📫 How to contact me: filhoaridson@gmail.com
